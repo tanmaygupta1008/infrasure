@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298219148516",
+    "project_id": "sensor-lab-438fe",
+    "storage_bucket": "sensor-lab-438fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298219148516:android:a5e8e70f28dfd81bdb48f1",
+        "android_client_info": {
+          "package_name": "com.example.sensor_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQ66l4B01vW3ZhsTnNXy_aKSblymVNx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
